@@ -104,7 +104,7 @@ mvn spring-boot:run
 
 ## Screenshots
 
-* **Frontend:** `screenshots/frontend/`
+* **Frontend:** `Frontend/Output`
 
 ---
 

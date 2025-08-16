@@ -38,7 +38,7 @@ news-aggregator/
 │   └─ main/resources/                  # Application properties, templates
 │
 |
-│   ├─ frontend/                        # Frontend UI screenshots
+│   ├─ Frontend/Output                        # Frontend UI screenshots
 │  
 │
 ├─ .gitignore

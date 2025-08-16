@@ -1,6 +1,4 @@
-Here’s a **comprehensive README** for your AI News Aggregator project. I’m keeping it professional, clear, and suitable for GitHub. You can just create a `README.md` in your project root and paste this content:
 
-```markdown
 # AI News Aggregator
 
 ## Project Overview
